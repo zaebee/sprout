@@ -4,7 +4,7 @@ import rl "github.com/gen2brain/raylib-go/raylib"
 
 const (
 	screenWidth  = 1000
-	screenHeight = 450
+	screenHeight = 480
 )
 
 var (
